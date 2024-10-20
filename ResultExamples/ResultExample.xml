@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Result>
+  <Files>
+    <File path="HIS_Some-Title-Here.html">
+      <Title>Some Title Here</Title>
+      <Headers>
+        <Header size="1">Content of header</Header>
+      </Headers>
+      <Images>
+        <Image path="./img/image01.png" />
+      </Images>
+      <Links>
+        <Link url="./HIS_Some-Other-Title.html" status="broken" />
+      </Links>
+    </File>
+  </Files>
+  <Unused-Images>
+    <Image path="./img/do-some-stuff-for-checkout.png" />
+  </Unused-Images>
+</Result>
